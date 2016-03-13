@@ -3,23 +3,23 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: |-
   The Subbody
   Resonance Society
-datePublished: '2016-03-13T05:58:29.002Z'
-dateModified: '2016-03-13T05:53:58.724Z'
+datePublished: '2016-03-13T06:04:57.323Z'
+dateModified: '2016-03-13T06:04:44.396Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-13-the-subbody-resonance-society.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-the-subbody-resonance-society.md
-published: true
 url: the-subbody-resonance-society/index.html
 _type: Article
 
