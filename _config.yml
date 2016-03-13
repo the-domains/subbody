@@ -1,0 +1,28 @@
+name: Subbody Resonance Society
+favicon: null
+layout_spectrum: 0.09224883979186416
+typography_spectrum: 0.1577455683145672
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.17425287724472582
+  lightness: 0.5926347239874303
+  saturation: 0.0018512019887566566
+  rhythmicContrast: 0.452078279806301
+purpose: []
