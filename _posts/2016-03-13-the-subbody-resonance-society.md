@@ -8,8 +8,8 @@ keywords: []
 description: |-
   The Subbody
   Resonance Society
-datePublished: '2016-03-13T06:04:57.323Z'
-dateModified: '2016-03-13T06:04:44.396Z'
+datePublished: '2016-03-13T06:13:32.573Z'
+dateModified: '2016-03-13T06:13:24.943Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-the-subbody-resonance-society.md
@@ -24,6 +24,8 @@ url: the-subbody-resonance-society/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7923ffad-2240-4854-b7cf-061c0c878eb9.jpg)
+
 The Subbody
 Resonance Society
 
