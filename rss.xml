@@ -2,17 +2,17 @@
     <channel>
         <title><![CDATA[Subbody Resonance Society]]></title>
         <description><![CDATA[Subbody Resonance Society]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/subbody/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 05:58:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 06:05:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/subbody/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Subbody
 Resonance Society</p>]]></description>
-            <link>undefinedthe-subbody-resonance-society/index.html</link>
+            <link>https://thegrid.ai/subbody/the-subbody-resonance-society/index.html</link>
             <guid isPermaLink="false">db0af721-36a8-43db-8a85-99ca7b5fc9d0</guid>
-            <pubDate>Sun, 13 Mar 2016 05:58:29 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2016 06:04:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
