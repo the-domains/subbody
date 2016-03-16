@@ -13,8 +13,8 @@ description: |-
   Japanese performance art called Butoh. He was so impressed by the
   experience that he decided to dedicate his life to the research of
   Hijikata's work and methods and further develop it.
-datePublished: '2016-03-16T03:59:34.898Z'
-dateModified: '2016-03-16T03:59:34.004Z'
+datePublished: '2016-03-16T11:13:49.576Z'
+dateModified: '2016-03-16T11:13:37.854Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-the-subbody-resonance-society.md
