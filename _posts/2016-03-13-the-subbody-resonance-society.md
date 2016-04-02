@@ -13,8 +13,8 @@ description: |-
   Japanese performance art called Butoh. He was so impressed by the
   experience that he decided to dedicate his life to the research of
   Hijikata's work and methods and further develop it.
-datePublished: '2016-03-28T03:49:45.447Z'
-dateModified: '2016-03-28T03:49:36.457Z'
+datePublished: '2016-04-02T09:02:50.962Z'
+dateModified: '2016-04-02T08:39:37.187Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-the-subbody-resonance-society.md
@@ -37,9 +37,7 @@ Japanese researcher and Butoh dancer Rhizome Lee. In his early
 twenties Lee met with Tatsumi Hijikata, the founder of the modern
 Japanese performance art called Butoh. He was so impressed by the
 experience that he decided to dedicate his life to the research of
-Hijikata's work and methods and further develop it.
-
-In the beginning
+Hijikata's work and methods and further develop it. In the beginning
 Lee's research was focused on improving his own dance, but in 2004
 Lee founded the Himalaya Subbody Butoh School in Dharamsala, India
 where he proceeded to teach his findings and continue his line of
@@ -48,9 +46,7 @@ students have graduated from the Himalaya Subbody School, mostly from
 Europe and the USA. Currently the
 interest in butoh is growing world wide so it is not surprising that
 more and more dancers, actors and body workers from India and other
-Asian countries are interested in attending the Subbody School. 
-
-Though the school fee is low compared to other similar educations,
+Asian countries are interested in attending the Subbody School. Though the school fee is low compared to other similar educations,
 many of these potential Asian students cannot afford to attend the
 school. To resolve this
 situation the Subbody Resonance Society was founded. The purpose of
