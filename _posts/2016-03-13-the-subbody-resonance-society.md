@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-05-05T06:22:58.289Z'
-datePublished: '2016-05-05T06:23:29.733Z'
+dateModified: '2016-05-05T07:10:26.442Z'
+datePublished: '2016-05-05T07:10:37.557Z'
 hasPage: true
 inFeed: true
 inNav: false
@@ -26,4 +26,4 @@ In the beginning Lee's research was focused on improving his own dance, but in 2
 
 By now more that 1000 students have graduated from the Himalaya Subbody School, mostly from Europe and the USA. Currently the interest in butoh is growing world wide so it is not surprising that more and more dancers, actors and body workers from India and other Asian countries are interested in attending the Subbody School.
 
-Though the school fee is low compared to other similar educations, many of these potential Asian students cannot afford to attend the school. To resolve this situation the Subbody Resonance Society was founded. The purpose of this society is to collect funds to be able to award scholarships to selected promising young students.
+### Though the school fee is low compared to other similar educations, many of these potential Asian students cannot afford to attend the school. To resolve this situation the Subbody Resonance Society was founded. The purpose of this society is to collect funds to be able to award scholarships to selected promising young students.
